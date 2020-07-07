@@ -20,19 +20,17 @@ textarea{
   border-radius: 0;
   border-bottom: 10px solid black;
 }
-/* I think this might be the class
- of the wrap to the textarea so you 
- can assing color to it with moment? */
+
 .description{
   white-space: pre-wrap;
 }
-/* this is each row including hour the input field and the button */
+
 .row {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;;
 }
-/* this is the hour column with the time of day */
+
 .hour {
   background-color: #ffffff;
   color: #000000;
