@@ -3,5 +3,3 @@
 
 Screenshot: 
 
-https://github.com/ajdonnelly/scheduler/issues/8#issue-651971243
-
